@@ -1,2 +1,1 @@
-# Apriori-on-Market-Basket
-What is Apriori Algorithm?
+<h1><b>What is Apriori Algorithm?</b></h1>
