@@ -10,4 +10,4 @@ Apriori uses breadth-first search and a Hash tree structure to count candidate i
 
 The pseudo code for the algorithm is given below for a transaction database T, and a support threshold of epsilion. Usual set theoretic notation is employed, though note that {\displaystyle T} T is a multiset. C_{k} is the candidate set for level {\displaystyle k} k. At each step, the algorithm is assumed to generate the candidate sets from the large item sets of the preceding level, heeding the downward closure lemma. count[c] accesses a field of the data structure that represents candidate set c, which is initially assumed to be zero. Many details are omitted below, usually the most important part of the implementation is the data structure used for storing the candidate sets, and counting their frequencies.
 
-<img src = "algo.jpeg">
+<img src = "algo.jpg">
